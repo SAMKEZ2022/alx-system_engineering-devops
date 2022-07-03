@@ -1,1 +1,2 @@
-help
+#!/bin/bash
+C - Hello, World
